@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "com.habitforge.app",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "minSdk": 26,
+  "apkUrl": "https://raw.githubusercontent.com/Akhtiam/habits-updates/417804c160cfe7ebe1ff601427d9f18ca003fd6d/releases/2/HabitForge-2.apk",
+  "sizeBytes": 16334123,
+  "sha256": "c4ccc667d97ea050a72e7444d7a0674f9630900def71837899369686378493ba"
+}
