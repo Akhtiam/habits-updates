@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "com.habitforge.app.qa",
+  "versionCode": 3,
+  "versionName": "1.0.2-qa",
+  "minSdk": 26,
+  "apkUrl": "https://raw.githubusercontent.com/Akhtiam/habits-updates/b18d3eee3ff51e7419bc610212178bd370598235/qa/3/HabitForge-QA-3.apk",
+  "sizeBytes": 43826548,
+  "sha256": "5bab2192f51491e206f2e0af11a538e3f14cf3d35a9b560147fa6cff18ca696d"
+}
